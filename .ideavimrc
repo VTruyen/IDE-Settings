@@ -27,6 +27,9 @@ set surround
 set highlightedyank
 set sneak
 set nerdtree
+set functiontextobj
+set argtextobj
+set mini-ai
 
 " Easymotion settings
 set easymotion
